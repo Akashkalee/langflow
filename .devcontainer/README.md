@@ -45,10 +45,10 @@ The service will start, and you will may notice a dialog in the lower right indi
 
 ```
 ╭───────────────────────────────────────────────────────────────────╮
-│ Welcome to ⛓ Langflow                                             │
+│ Welcome to ⛓ Langflow                                            │
 │                                                                   │
 │                                                                   │
-│ Collaborate, and contribute at our GitHub Repo 🌟                 │
+│ Collaborate, and contribute at our GitHub Repo🌟                 |
 │                                                                   │
 │ We collect anonymous usage data to improve Langflow.              │
 │ You can opt-out by setting DO_NOT_TRACK=true in your environment. │
